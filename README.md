@@ -2,6 +2,8 @@
 
 A simple numerical approximation that simulates orbit trajectories of planets in a N-body system.
 
+![Alt Text](demo.gif)
+
 ## Installation
 
 This project uses **SFML** to render graphics. If you are using the provided Visual Studio project file, then see [this](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
