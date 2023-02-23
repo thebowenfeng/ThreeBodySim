@@ -32,3 +32,5 @@ Planet sun1({ 0, 0 }, 1.989 * powf(10, 6), 5.f, {300, 300});
 ```
 
 Declare these objects outside of the main SFML loop, inside ```int main()```
+
+Note that units used in this program are not SI units in order to avoid number overflow, the units can be found in ```physics.h``` and can be adjusted.
